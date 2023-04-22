@@ -94,7 +94,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
