@@ -45,17 +45,17 @@
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 	</a>
-	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+	<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40"/>
 	</a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+	<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+		<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40" height="40"/>
 	</a>
-	<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-		<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/>
+	<a href="https://python.org/" target="_blank" rel="noreferrer">
+		<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/>
 	</a>
-	<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-		<img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="android_studio" width="40" height="40"/>
+	<a href="https://helpx.adobe.com/xd/get-started.html" target="_blank" rel="noreferrer">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobexd" width="40" height="40"/>
 	</a>
 	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/>
