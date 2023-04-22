@@ -113,16 +113,14 @@
 <br>
 
 <li>
-<a href="https://twitter.com/hikarukuri" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  hikarukuri-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
+<a href="https://www.linkedin.com/in/anderson-mendoza-ramos-7551141b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
 </li>
 
 <br>
 
 <li>
 <a href="mailto:hikkaruk@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  hikarukuri-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  hikkarurk-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -137,7 +135,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Nice to meat you...✨</b>
 
 </div>
 <br>
@@ -151,4 +149,4 @@
 
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 09/11/2022
+Last Edited on: 04/22/2023
