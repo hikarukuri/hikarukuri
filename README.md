@@ -18,11 +18,6 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- FWT Japan Junior🏂 former champion.
-- My projects in school [link](https://setb.jp)
-- Personal website [link](https://crybo.xyz)
-- I am trading cryptocurrency! [My exchange's coupon code.](https://dydx.exchange/r/GOLJPREL)
 
 <br><br>
 
